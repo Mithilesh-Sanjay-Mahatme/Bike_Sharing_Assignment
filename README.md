@@ -1,5 +1,4 @@
-# Linear_Regression
-## Bike Sharing Assignment
+# Bike Sharing Assignment
 We have to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 ### Problem Statement:
